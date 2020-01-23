@@ -2,7 +2,7 @@
 
 ## Preparation
 
-> Install nodejs
+> Install nodejs (v.6.10.3)
 
 > Install mongodb
 
